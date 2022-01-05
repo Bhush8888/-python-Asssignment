@@ -1,0 +1,7 @@
+# -python-Asssignment
+A=int(input("Enter first no"))
+B=int(input("Enter sec no"))
+
+C = A + B
+
+print("Addition of two nos is ", C)
