@@ -1,0 +1,7 @@
+# -python-Asssignment
+x=int(input("Enter any no :"))
+pi=3.142
+
+Area= pi * (x * x)
+print(Area)
+
