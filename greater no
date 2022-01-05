@@ -1,0 +1,8 @@
+# -python-Asssignment
+A=int(input("Enter first no :"))
+B=int(input("Enter sec no :"))
+
+if A > B:
+    print("A is greater than B ")
+else:
+    print("B is greater than A")
